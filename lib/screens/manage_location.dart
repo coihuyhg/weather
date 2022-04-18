@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../json/json.dart';
+import '../constant.dart';
 
 class ManageLocation extends StatelessWidget {
   const ManageLocation({Key? key}) : super(key: key);
